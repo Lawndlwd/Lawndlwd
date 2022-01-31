@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- a Frontend developer
-
 Hi 👋, I'm Levende, self-taught JavaScript developer ,living near Paris, specialized in **React** and **Vue**.
 Focused on developing accessible, and responsive web applications, as well as improving my skills within the JavaScript ecosystem, working with current web technologies such as Vue,Typescript, React, Nuxt.js & Node.js to create data-driven, feature-rich applications.
 
