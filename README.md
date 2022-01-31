@@ -36,7 +36,7 @@ I Love:
 
 I like to be: 
 - More experince in Javascript and create my own open source project 
-- In space and haveing my own space start up
+- In space and having my own space start up
 
 
 
