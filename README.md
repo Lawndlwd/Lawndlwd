@@ -23,8 +23,10 @@ Proficient with design tools such as Figma, Adobe XD as well as basic UI/UX prin
 I've always been interested in solving problems, programming, coding and Designing apps. all this was the best way for me to keep my interests growing in the right way.
 
 <p align="center">
-  <a href="https://Levende.net">Website</a> -
-  <a href="https://www.linkedin.com/in/levend-mohammad/">LinkedIn</a> -
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://Levende.net/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/levend-mohammad/)
+
   <a href="https://stackoverflow.com/users/13854499/levend">StackOverflow</a> -
 </p>
 
