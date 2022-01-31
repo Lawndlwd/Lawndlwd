@@ -40,5 +40,6 @@ I like to be:
 - More experince in Javascript and create my own open source project 
 - In space and having my own space start up
 
-
+## 🛠 Skills
+Javascript, TypeScript, React, Vue, NuxtJS, Node, Express, Postgres, MongoDB, HTML, CSS...
 
