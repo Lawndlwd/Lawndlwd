@@ -32,15 +32,14 @@ I've always been interested in solving problems, programming, coding and Designi
 
 ---
 
-I Love:
-- TypeScript
-- Problems
-- Work in team but really a team
+- 🔭 I’m currently Helping Scaleway to build the most easy to use Console which is our user interface for developers to command and configure their instances Databases or any components of Cloud services specially in PaaS.
+- 🌱 I’m currently learning using Neovim
+- 👯 I’m looking to collaborate on some cool open source projects
+- 💬 Ask me about Typescript, AI, Trading
+- 😄 Pronouns: Le-vend
+- ⚡ Fun fact: ... never mind
 
-I like to be: 
-- More experince in Javascript and create my own open source project 
-- In space and having my own space start up
-
+ 
 ## 🛠 Skills
 Javascript, TypeScript, React, Vue, NuxtJS, Node, Express, Postgres, MongoDB, HTML, CSS...
 
