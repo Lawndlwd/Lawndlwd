@@ -32,7 +32,7 @@ I've always been interested in solving problems, programming, coding and Designi
 
 ---
 
-- 🔭 I’m currently Helping Scaleway to build the most easy to use Console which is our user interface for developers to command and configure their instances Databases or any components of Cloud services specially in PaaS.
+- 🔭 I’m currently helping Scaleway to build the most easy to use Console which is our user interface for developers to command and configure their instances Databases or any components of Cloud services specially in PaaS.
 - 🌱 I’m currently learning using Neovim
 - 👯 I’m looking to collaborate on some cool open source projects
 - 💬 Ask me about Typescript, AI, Trading
