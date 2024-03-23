@@ -26,7 +26,6 @@ I've always been interested in solving problems, programming, coding and Designi
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio.levende.org/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/levend-mohammad/)
- <a href="https://stackoverflow.com/users/13854499/levend"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/1200px-Stack_Overflow_icon.svg.png" alt="drawing" width="100"/>
 </a> 
 </p>
 
